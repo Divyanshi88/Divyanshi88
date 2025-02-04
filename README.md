@@ -19,4 +19,7 @@ I’m a **3rd-year Data Science student at Bennett University**, passionate abou
 ## 🌟 Fun Facts  
 - 🏎️ I can analyze data **faster than you can say "big data"!**  
 - 🔍 I enjoy **debugging models as much as solving puzzles**.  
-- 🍕 Data, ML, and **a good pizza? Perfect combo!** 
+- 🍕 Data, ML, and **a good pizza? Perfect combo!**
+
+  ![GitHub Snake Animation](https://github.com/Divyanshi88/Divyanshi88/blob/output/github-contribution-grid-snake.svg)
+
