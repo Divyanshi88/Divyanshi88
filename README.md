@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hey, I'm Divyanshi Sharma!  
 
-<!--
-**Divyanshi88/Divyanshi88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data & Business Analyst in the Making** | 🧠 **AI & ML Enthusiast** | 📊 **Turning Data into Insights**  
 
-Here are some ideas to get you started:
+I’m a **3rd-year Data Science student at Bennett University**, passionate about **data-driven decision-making, AI, and business intelligence**. From **building predictive models** to **analyzing complex datasets**, I love solving real-world problems with data.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do  
+- **📊 Data Analysis & Visualization** – Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Tableau  
+- **🤖 Machine Learning & NLP** – Scikit-learn, TensorFlow  
+- **☁️ Big Data & Cloud** – Hadoop, Apache Pig, MapReduce  
+
+## 🎯 Currently Working On  
+- **AI-powered business insights** 📈  
+- **Interactive dashboards & NLP models** 🔍  
+- **Research on low-light image detection** 🌓  
+
+## 🌟 Fun Facts  
+- 🏎️ I can analyze data **faster than you can say "big data"!**  
+- 🔍 I enjoy **debugging models as much as solving puzzles**.  
+- 🍕 Data, ML, and **a good pizza? Perfect combo!** 
