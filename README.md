@@ -1,3 +1,5 @@
+![Cool Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQzcGRiYmcwejVhNzIzMjVpaGlleTFiYWRqM2MyZ2lzcWdmYWt0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif)
+
 # 👋 Hey, I'm Divyanshi Sharma!  
 
 🚀 **Data & Business Analyst in the Making** | 🧠 **AI & ML Enthusiast** | 📊 **Turning Data into Insights**  
