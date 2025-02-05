@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Upload the Snake to GitHub
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4  # ✅ Updated from v3 to v4
         with:
           name: github-snake
           path: dist
