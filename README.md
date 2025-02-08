@@ -45,11 +45,4 @@ I’m a **3rd-year Data Science student at Bennett University**, passionate abou
 
 ---
 
-### 🚀 Let's Build Something Awesome!  
-📌 **Open to Internship & Collaboration Opportunities**  <br>
-📩 Reach out: **yashswishukla@gmail.com**  <br>
-🌐 GitHub: **[Yashswi-3](https://github.com/Divyanshi88)** <br> 
-🔗 LinkedIn: **[Yashswi-Shukla](https://www.linkedin.com/in/)**
-
----
 
