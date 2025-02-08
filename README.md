@@ -1,6 +1,11 @@
-![Cool Animation](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTQzcGRiYmcwejVhNzIzMjVpaGlleTFiYWRqM2MyZ2lzcWdmYWt0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.gif)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashswi-3.yashswi-3" />
 
-# 👋 Hey, I'm Divyanshi Sharma!  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Divyanshi+sharma!;" />
+</h1>
+
+<h3 align="center">Data & Business Analyst in the Making| AI & ML Enthusiast | Problem Solver | Turning Data into Insights</h3>
+ 
 
 🚀 **Data & Business Analyst in the Making** | 🧠 **AI & ML Enthusiast** | 📊 **Turning Data into Insights**  
 
