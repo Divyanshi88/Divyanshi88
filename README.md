@@ -44,6 +44,11 @@ I’m a **3rd-year Data Science student at Bennett University**, passionate abou
 </div>
 
 --- 
+---
+### 🏆 Connect with Me  
+- 📧 Email: [divyanshi122023@gmail.com](mailto:divyanshi122023@gmail.com)
+- 🌐 LinkedIn: [Divyanshi Sharma](https://www.linkedin.com/in/divyanshi-sharma-a71a4825a/)
+---
 
 
 
