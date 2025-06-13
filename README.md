@@ -81,5 +81,4 @@
 
 ---
 
-![GitHub Snake dark](https://raw.githubusercontent.com/Divyanshi88/Divyanshi88/output/github-contribution-grid-snake-dark.svg)
-
+![GitHub Snake light](https://raw.githubusercontent.com/Divyanshi88/Divyanshi88/output/github-contribution-grid-snake.svg)
