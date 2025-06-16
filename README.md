@@ -77,7 +77,7 @@
 
 - 📧 Email: [divyanshi122023@gmail.com](mailto:divyanshi122023@gmail.com)
 - 🌐 LinkedIn: [Divyanshi Sharma](https://www.linkedin.com/in/divyanshi-sharma-a71a4825a/)
-- 💻 Portfolio (Coming Soon!)
+- 💻 Portfolio :[Divyanshi Sharma](https://divyanshi88.github.io/)
 
 ---
 
