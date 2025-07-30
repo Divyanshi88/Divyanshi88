@@ -44,7 +44,13 @@
 ✍️ **Content Head** – PDT Club, Bennett University
 
 ---
+## 🏅 Open Source Achievements
 
+### 💻 GSSoC'25 Contributor
+
+![GSSoC Contributor Badge](https://github.com/Divyanshi88/Divyanshi88/blob/main/Contributor's%20badge.jpg?raw=true)
+
+---
 ## 🌟 Fun Facts
 
 - 🧩 Solving ML model errors is my version of Sudoku  
