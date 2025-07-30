@@ -1,11 +1,10 @@
-<i<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Divyanshi88.Divyanshi88" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Divyanshi88.Divyanshi88" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Divyanshi+Sharma!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&color=9F2B68&center=true&vCenter=true&width=700&height=70&lines=Hey+There!+👋;I'm+Divyanshi+Sharma;Final+Year+CS+%2B+DS+Student;AI+%7C+ML+%7C+BI+Explorer;Turning+Data+into+Decisions!" />
 </h1>
 
 <h3 align="center">Decoding Data, Driving Decisions | AI & ML in Action | Building Smarter Solutions</h3>
-
 
 ---
 
