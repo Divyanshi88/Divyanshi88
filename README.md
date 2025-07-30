@@ -80,10 +80,9 @@
 
 ---
 
-### 🐍 Contribution Graph Snake
+### 🏆 GitHub Trophies
 
-![GitHub Snake light](https://raw.githubusercontent.com/Divyanshi88/Divyanshi88/output/github-contribution-grid-snake.svg)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&column=7&margin-w=10&margin-h=10)
 ---
 
 ### 📌 Currently
