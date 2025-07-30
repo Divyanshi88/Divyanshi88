@@ -81,7 +81,9 @@
 ---
 ### 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Divyanshi88&theme=react-dark&hide_border=true)
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&column=7&margin-w=10&margin-h=10)
 
 ---
 
