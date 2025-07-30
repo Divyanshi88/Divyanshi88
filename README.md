@@ -79,10 +79,10 @@
 - 🌐 [Portfolio](https://divyanshi88.github.io/)
 
 ---
+### 📈 Contribution Graph
 
-### 🏆 GitHub Trophies
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Divyanshi88&theme=react-dark&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&column=7&margin-w=10&margin-h=10)
 ---
 
 ### 📌 Currently
