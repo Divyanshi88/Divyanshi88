@@ -1,8 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Divyanshi88.Divyanshi88" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=450&lines=Hey+there!+👋+I'm+Divyanshi+Sharma;Data+Science+is+my+superpower!;AI+%7C+ML+%7C+Business+Intelligence+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hey+there!+👋+I'm+Divyanshi+Sharma;Final+Year+CS+%2B+DS+Student;AI+%7C+ML+%7C+BI+Explorer+%26+Problem+Solver" alt="Typing SVG" />
 </h1>
+
 
 <h3 align="center"><code><b>Final-year CS + Data Science Student | ML Explorer | Real-World Problem Solver</b></code></h3>
 
