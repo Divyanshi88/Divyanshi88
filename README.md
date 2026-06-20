@@ -131,7 +131,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&column=7&margin-w=10&margin-h=10" />
+  <img src="![trophy](https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)" />
 </div>
 
 ---
@@ -148,11 +148,7 @@
 ## 📌 Currently
 
 - 🔍 Exploring **Transformers for NLP & Time Series**
-- 💼 Interning **@ Springworks** (Operations)
-- 🎓 Preparing for **final-year project/paper submission**
 - 🟢 **Open to full-time SDE / Data / ML roles — let's talk!**
-
----
 
 ## 🌐 Let's Connect
 
