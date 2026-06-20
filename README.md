@@ -128,11 +128,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Divyanshi88?template=classic&base.repositories=1&base.activity=1&base.community=1" />
-</div>
 ## 🌟 Fun Facts
 
 - 🧩 Debugging ML models is my version of Sudoku — and I always solve it
