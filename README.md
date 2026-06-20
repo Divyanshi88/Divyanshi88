@@ -131,10 +131,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="![trophy](https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
-
----
 
 ## 🌟 Fun Facts
 
