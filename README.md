@@ -1,69 +1,119 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Divyanshi88.Divyanshi88" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&color=9F2B68&center=true&vCenter=true&width=700&height=70&lines=Hey+There!+👋;I'm+Divyanshi+Sharma;Final+Year+CS+%2B+DS+Student;AI+%7C+ML+%7C+BI+Explorer;Turning+Data+into+Decisions!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&color=9F2B68&center=true&vCenter=true&width=700&height=70&lines=Hey+There!+👋;I'm+Divyanshi+Sharma;Final+Year+CS+%2B+DS+Student;AI+%7C+ML+%7C+BI+Explorer;Open+to+SDE+%2F+Data+Roles!+🚀" />
 </h1>
 
 <h3 align="center">Decoding Data, Driving Decisions | AI & ML in Action | Building Smarter Solutions</h3>
 
+<div align="center">
+  
+  [![Hire Me](https://img.shields.io/badge/💼%20Open%20to%20Work-SDE%20%7C%20Data%20%7C%20ML%20Roles-blueviolet?style=for-the-badge)](mailto:divyanshi122023@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/divyanshi-sharma-a71a4825a/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9F2B68?style=for-the-badge&logo=github)](https://divyanshi88.github.io/)
+  [![Email](https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail)](mailto:divyanshi122023@gmail.com)
+
+</div>
+
 ---
 
-### 🎓 About Me
+## 🔥 Currently Seeking Opportunities
+
+> **I'm actively looking for full-time roles, internships, and research collaborations in:**
+
+```
+🧠 Machine Learning / Deep Learning Engineer
+📊 Data Scientist / Analyst
+🔍 AI Research Assistant
+💻 Software Development Engineer (SDE)
+📈 Business Intelligence / Data Engineering
+```
+
+> 💌 **Let's connect!** → [divyanshi122023@gmail.com](mailto:divyanshi122023@gmail.com)
+
+---
+
+## 🎓 About Me
 
 🌟 I'm a **B.Tech Computer Science** student specializing in **Data Science** at *Bennett University*, currently an **Operations Intern at Springworks**.  
-💡 I’m passionate about **machine learning**, **time series forecasting**, and **business intelligence**, and love building **data-driven, real-world solutions**.
+💡 I'm passionate about **machine learning**, **time series forecasting**, and **business intelligence**, and love building **data-driven, real-world solutions**.  
+🎯 Expected Graduation: **2025** | Available for: **Full-time | Internship | Research roles**
 
 ---
 
-## 🛠️ What I Do
+## 💡 What I Bring to the Table
 
-| Area | Tools & Skills |
-|------|----------------|
-| 📊 **Data Analysis** | Python (NumPy, Pandas), SQL, Excel, Plotly |
-| 📈 **ML & Time Series** | Scikit-learn, LSTM, ARIMA, Prophet, Transformers |
-| 🧠 **Deep Learning** | TensorFlow, GRU, Informer |
-| 🗃️ **Tools & Frameworks** | MySQL, Tableau, Flask, Chart.js |
+<div align="center">
+
+| 🚀 Strength | 📌 Details |
+|---|---|
+| 🔮 **Forecasting & Time Series** | LSTM, GRU, Transformer, ARIMA, Prophet, Monte Carlo |
+| 🧠 **Deep Learning** | TensorFlow, GRU, Informer, Seq2Seq |
+| 📊 **Data Analysis & BI** | Python, SQL, Tableau, Excel, Plotly |
+| 🌐 **Web + ML Deployment** | Flask, Chart.js, Render, REST APIs |
 | ☁️ **Big Data** | Hadoop, MapReduce, Apache Pig |
+| 🗃️ **Databases** | MySQL, MongoDB |
+
+</div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- 🔮 **StockVision-AI** – Forecasting stocks with LSTM/GRU/Transformer/Informer + Monte Carlo Simulations  
-- 📊 **Time Series Forecasting** – Worked on Wikipedia & Electricity datasets using ARIMA, ADF Test, decomposition  
-- 🫀 **Heart Risk Predictor** – Flask-based web app with 91% AUC [🌐 **Live Demo**](https://heart-risk-predictor-ilm6.onrender.com)  
-- 🌑 **Low-Light Face Detection (Research)** – AI-powered model for facial recognition in poor lighting *(under review)*
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔮 StockVision-AI</h3>
+      <p>Multi-model stock forecasting using LSTM, GRU, Transformer & Informer with Monte Carlo simulations for uncertainty quantification.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/Python-Time%20Series-blue?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>🫀 Heart Risk Predictor <a href="https://heart-risk-predictor-ilm6.onrender.com">🌐 Live</a></h3>
+      <p>Flask-based web app achieving <strong>91% AUC</strong> for cardiovascular risk classification. End-to-end ML pipeline with real-time predictions.</p>
+      <img src="https://img.shields.io/badge/Flask-Deployed-green?style=flat-square" />
+      <img src="https://img.shields.io/badge/AUC-91%25-brightgreen?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📊 Time Series Forecasting</h3>
+      <p>Research-grade analysis on Wikipedia & Electricity datasets using ARIMA, ADF Test, seasonal decomposition.</p>
+      <img src="https://img.shields.io/badge/ARIMA-Forecasting-purple?style=flat-square" />
+    </td>
+    <td width="50%">
+      <h3>🌑 Low-Light Face Detection <em>(Research)</em></h3>
+      <p>AI-powered facial recognition model for poor lighting conditions. Under peer review — pushing the frontier of computer vision.</p>
+      <img src="https://img.shields.io/badge/Status-Under%20Review-yellow?style=flat-square" />
+      <img src="https://img.shields.io/badge/CV-Deep%20Learning-red?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Recognition
 
-🏅 **Winner** – *Unicel Chabi Yan2 Ideathon*  
-📄 **Research Paper** – *Low-Light Face Detection* under peer-review  
-👩‍💼 **Team Lead** – Real-time ML + Cloud Project  
-✍️ **Content Head** – PDT Club, Bennett University
+| 🥇 Achievement | Details |
+|---|---|
+| 🏅 **Ideathon Winner** | Unicel Chabi Yan2 — Top innovator |
+| 📄 **Research Paper** | Low-Light Face Detection — Under Peer Review |
+| 👩‍💼 **Team Lead** | Real-time ML + Cloud Project |
+| ✍️ **Content Head** | PDT Club, Bennett University |
+| 💻 **GSSoC'25 Contributor** | Open Source Contributor Badge |
 
----
-## 🏅 Open Source Achievements
-
-### 💻 GSSoC'25 Contributor
-
-![GSSoC Contributor Badge](https://github.com/Divyanshi88/Divyanshi88/blob/main/Contributor's%20badge.jpg?raw=true)
-
----
-## 🌟 Fun Facts
-
-- 🧩 Solving ML model errors is my version of Sudoku  
-- 🎧 ML + Lo-Fi beats = productivity unlocked  
-- 📉 I forecast time series before breakfast  
+<div align="center">
+  <img src="https://github.com/Divyanshi88/Divyanshi88/blob/main/Contributor's%20badge.jpg?raw=true" width="120" alt="GSSoC Contributor Badge" />
+</div>
 
 ---
 
 ## 🔧 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,html,css,js" /><br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,sql,html,css,js" /><br><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,git,github,vscode" /><br><br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,flask,tableau,hadoop" />
 </div>
 
 ---
@@ -78,22 +128,42 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&column=7&margin-w=10&margin-h=10" />
+</div>
+
+---
+
+## 🌟 Fun Facts
+
+- 🧩 Debugging ML models is my version of Sudoku — and I always solve it
+- 🎧 Lo-Fi beats + Jupyter Notebook = unstoppable productivity
+- 📉 I forecast time series before breakfast ☕
+- 🤔 I ask "but what does the data actually say?" more than any human should
+
+---
+
+## 📌 Currently
+
+- 🔍 Exploring **Transformers for NLP & Time Series**
+- 💼 Interning **@ Springworks** (Operations)
+- 🎓 Preparing for **final-year project/paper submission**
+- 🟢 **Open to full-time SDE / Data / ML roles — let's talk!**
+
+---
+
 ## 🌐 Let's Connect
 
-- 📧 [Email Me](mailto:divyanshi122023@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshi-sharma-a71a4825a/)  
-- 🌐 [Portfolio](https://divyanshi88.github.io/)
+<div align="center">
 
----
-### 📈 Contribution Graph
+📧 [Email Me](mailto:divyanshi122023@gmail.com) &nbsp;|&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/divyanshi-sharma-a71a4825a/) &nbsp;|&nbsp;
+🌐 [Portfolio](https://divyanshi88.github.io/)
 
-### 🏆 GitHub Trophies
+<br>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshi88&theme=radical&column=7&margin-w=10&margin-h=10)
+> *"The best model is the one that ships — and the best data scientist is the one who makes it happen."*
 
----
-
-### 📌 Currently
-- 🔍 Exploring Transformers for NLP & Time Series
-- 💼 Interning @ Springworks (Operations)
-- 🎓 Preparing for final-year project/paper submission
+</div>
